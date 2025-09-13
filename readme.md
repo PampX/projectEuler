@@ -3,4 +3,6 @@
 This repository contains solutions to various problems from [Project Euler](https://projecteuler.net/).
 
 ## Problems Solved
-- [ ] 1
+- [x] 1
+- [x] 2
+- [ ] 3
