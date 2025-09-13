@@ -5,4 +5,5 @@ This repository contains solutions to various problems from [Project Euler](http
 ## Problems Solved
 - [x] 1
 - [x] 2
-- [ ] 3
+- [x] 3
+- [x] 4
