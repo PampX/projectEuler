@@ -8,4 +8,4 @@ This repository contains solutions to various problems from [Project Euler](http
 - [x] 3
 - [x] 4
 - [x] 5
-- [ ] 6
+- [x] 6

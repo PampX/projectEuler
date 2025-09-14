@@ -1,3 +1,4 @@
+// What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20 ? 
 
 function isDivisibleBy20th(number){
     for (let i = 20; i > 0; i--) {
