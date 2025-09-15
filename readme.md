@@ -9,3 +9,5 @@ This repository contains solutions to various problems from [Project Euler](http
 - [x] 4
 - [x] 5
 - [x] 6
+- [x] 7
+- [ ] 8
