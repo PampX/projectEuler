@@ -14,3 +14,4 @@ This repository contains solutions to various problems from [Project Euler](http
 - [x] 9
 - [x] 10
 - [x] 11
+- [x] 12
