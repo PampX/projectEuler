@@ -17,3 +17,5 @@ This repository contains solutions to various problems from [Project Euler](http
 - [x] 12
 - [x] 13
 - [x] 14
+- [x] 15
+- [ ] 16
